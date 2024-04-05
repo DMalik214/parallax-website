@@ -1,4 +1,4 @@
-/* Reset and basic styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -130,15 +130,19 @@
   }
   
   #section1 {
-    background-image: url('hi.jpg');
+    background-image: url('1.jpg');
   }
   
   #section2 {
-    background-image: url('download.jpg');
+    background-image: url('2.jpg');
   }
   
   #section3 {
-    background-image: url('images.jpg');
+    background-image: url('3.jpg');
+  }
+
+  #section4 {
+    background-image: url('4.jpg');
   }
   
   .parallax-content {
